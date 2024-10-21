@@ -29,5 +29,6 @@ int sophiaSum = 0;
 int nocolasSum = 0;
 int zahirahSum = 0;
 int jeongSum = 0;
-
+//parei aqui 
 Console.WriteLine ("Sophia: " + sophiaSum)
+
